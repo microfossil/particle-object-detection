@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Coral_feeding_scar",
+        "color": "#41f05d",
+        "attributes": []
+    },
+    {
+        "name": "Turtle",
+        "color": "#d06000",
+        "attributes": []
+    },
+    {
+        "name": "Other",
+        "color": "#e6f7bb",
+        "attributes": []
+    },
+    {
+        "name": "COTS",
+        "color": "#ff007c",
+        "attributes": []
+    },
+    {
+        "name": "No_COTS",
+        "color": "#ff6a4d",
+        "attributes": []
+    }
+]
+
